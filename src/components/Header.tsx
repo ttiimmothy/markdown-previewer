@@ -30,7 +30,7 @@ const Button = styled.button`
 type HeaderProps = {
   onToggleGuide: () => void;
 };
-export function Header({ onToggleGuide }: HeaderProps) {
+export function Header({ onToggleGuide }: HeaderProps): JSX.Element {
   return (
     <HeaderContainer>
       <Title>Markdown Previewer</Title>

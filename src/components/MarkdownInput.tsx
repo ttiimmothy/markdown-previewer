@@ -28,7 +28,10 @@ type MarkdownInputProps = {
   onChange: ChangeEventHandler<HTMLTextAreaElement>;
 };
 
-export function MarkdownInput({ value, onChange }: MarkdownInputProps) {
+export function MarkdownInput({
+  value,
+  onChange,
+}: MarkdownInputProps): JSX.Element {
   return (
     <InputContainer>
       <StyledTextArea value={value} onChange={onChange}></StyledTextArea>
