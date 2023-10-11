@@ -13,7 +13,7 @@ const Container = styled.div`
   }
 `;
 
-function App() {
+function App(): JSX.Element {
   const [markdown, setMarkdown] = useState(`# Hello World`);
   const [showGuide, setShowGuide] = useState(false);
 

@@ -20,7 +20,7 @@ const syntax = [
   "- list item",
 ];
 
-export function MarkdownGuide() {
+export function MarkdownGuide(): JSX.Element {
   return (
     <GuideContainer>
       <h2>Markdown Cheat Sheet</h2>
