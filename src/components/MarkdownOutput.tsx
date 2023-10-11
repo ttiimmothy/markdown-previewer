@@ -19,9 +19,7 @@ type MarkdownOutputProps = {
   markdown: string;
 };
 
-export function MarkdownOutput<T>({
-  markdown,
-}: MarkdownOutputProps): JSX.Element {
+export function MarkdownOutput({ markdown }: MarkdownOutputProps): JSX.Element {
   return (
     <OutputContainer>
       <Markdown>{markdown}</Markdown>
