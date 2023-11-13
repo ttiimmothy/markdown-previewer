@@ -19,3 +19,6 @@ A Markdown Previewer using `Typescript`, `React.js` amd `Vite`. It uses `Styled 
 npm i
 npm run dev
 ```
+
+# License
+Markdown Preview is licensed under GNU General Public License v3.0.
