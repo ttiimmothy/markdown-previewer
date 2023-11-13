@@ -20,5 +20,5 @@ npm i
 npm run dev
 ```
 
-# License
+## License
 Markdown Preview is licensed under GNU General Public License v3.0.
