@@ -1,8 +1,9 @@
 {
-  "name": "markdown_previewer",
+  "name": "markdown_previewer_application",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://markdownpreviewerapplication.netlify.app",
   "scripts": {
     "dev": "vite --port 5177",
     "build": "tsc && vite build",
