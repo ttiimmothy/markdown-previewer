@@ -1,5 +1,7 @@
-# Markdown Previewer
-A Markdown Previewer using `Typescript`, `React.js` amd `Vite`. It uses `Styled Components` for simplifying CSS usage.
+# Markdown Previewer Application
+[![ci](https://github.com/ttiimmothy/markdown-previewer-application/actions/workflows/ci.yml/badge.svg)](https://github.com/ttiimmothy/markdown-previewer-application/actions/workflows/ci.yml)
+
+A markdown previewer application uses `Typescript`, `React.js` amd `Vite`. It uses `Styled Components` for simplifying CSS usage.
 
 ## 🎯 Features
 
@@ -21,4 +23,5 @@ npm run dev
 ```
 
 ## License
-Markdown Preview is licensed under GNU General Public License v3.0.
+
+Markdown Preview Application is licensed under [GNU General Public License v3.0](LICENSE).
